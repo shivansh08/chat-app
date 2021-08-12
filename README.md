@@ -1,2 +1,2 @@
-# chat-app-08
+# chat-app
 Real time Chat Application
